@@ -1,0 +1,26 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 环境配置文件 (包含 API Key)
+.env
+
+# 数据库与本地索引
+*.db
+*.index
+data/
+
+# 编译生成的打包文件
+full_project_context.txt
+project_context.txt
+final_project_v2_snapshot.txt
+
+# IDE 配置
+.vscode/
+.idea/
